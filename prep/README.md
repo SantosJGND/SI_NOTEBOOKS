@@ -1,45 +1,59 @@
-Homework
+# Homework
 
-[Github](https://github.com/)
+## Github
 
-Jupyter Notebooks
+i. Create Github Account at [Github](https://github.com/)
 
-Option 1. VS code (Optional but Prefered)
+## Jupyter Notebooks
 
-i. Install Vscode
+### Option 1. VS code (Optional but Prefered)
+
+#### i. Install Vscode
 
 - install: [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
 
 - intro: [https://www.youtube.com/watch?v=B-s71n0dHUk](https://www.youtube.com/watch?v=B-s71n0dHUk)
 
-ii. Create Environment
+#### ii. Create Environment
 
 - [https://code.visualstudio.com/docs/python/environments](https://code.visualstudio.com/docs/python/environments)
 
 - nice vídeo explanation : [https://www.youtube.com/watch?v=eWk497uCgf0](https://www.youtube.com/watch?v=eWk497uCgf0)
 
-iii. Install libraries
+#### iii. Install libraries
 
 - install tutorial: [https://www.alphr.com/vs-code-how-to-install-numpy/](https://www.alphr.com/vs-code-how-to-install-numpy/)
 
 - install libraries pandas, numpy, seaborn, matplotlib.
 
-ii. Install Jupyter Notebook extention
+#### ii. Install Jupyter Notebook extention
 
-iii. Ctrl+P (or Cmd+P) – start jupyter notebook
+![image](img/vscode_jupyter_ext.jpg)
+
+#### iii. Ctrl+P (or Cmd+P) – search for "jupyter notebook"
 
 tutorial vídeo: [https://www.youtube.com/watch?v=h1sAzPojKMg](https://www.youtube.com/watch?v=h1sAzPojKMg)
 
-Option 2. Kaggle
+### Option 2. Kaggle
 
-i. Sign In
+#### i. Sign In
 
-ii. Find Class URL
+![image](img/kaggle_signin.jpg)
+
+#### ii. Find Class URL
 
 - url class 1.1 - [https://www.kaggle.com/santosjgnd/distributions-class-distrbutions-1-1](https://www.kaggle.com/santosjgnd/distributions-class-distrbutions-1-1)
 
-iii. Copy and Edit
+#### iii. Copy and Edit
 
-iv. Play
+![image](img/kaggle_copy_edit.jpg)
 
-v. Change name & Share
+#### iv. Play
+
+![image](img/kaggle_play.jpg)
+
+#### v. Change name & Share
+
+![image](img/kaggle_share.jpg)
+
+![image](img/kaggle_share_public.jpg)
