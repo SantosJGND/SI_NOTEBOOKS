@@ -28,7 +28,7 @@ i. Create Github Account at [Github](https://github.com/)
 
 #### ii. Install Jupyter Notebook extention
 
-![image](img/vscode_jupyter_ext.jpg)
+<img src="img/vscode_jupyter_ext.jpg" alt="drawing" width="500"/>
 
 #### iii. Ctrl+P (or Cmd+P) – search for "jupyter notebook"
 
@@ -38,7 +38,7 @@ tutorial vídeo: [https://www.youtube.com/watch?v=h1sAzPojKMg](https://www.youtu
 
 #### i. Sign In
 
-![image](img/kaggle_signin.jpg)
+<img src="img/kaggle_signin.jpg" alt="drawing" width="500"/>
 
 #### ii. Find Class URL
 
@@ -46,14 +46,14 @@ tutorial vídeo: [https://www.youtube.com/watch?v=h1sAzPojKMg](https://www.youtu
 
 #### iii. Copy and Edit
 
-![image](img/kaggle_copy_edit.jpg)
+<img src="img/kaggle_copy_edit.jpg" alt="drawing" width="500"/>
 
 #### iv. Play
 
-![image](img/kaggle_play.jpg)
+<img src="img/kaggle_play.jpg" alt="drawing" width="500"/>
 
 #### v. Change name & Share
 
-![image](img/kaggle_share.jpg)
+<img src="img/kaggle_share.jpg" alt="drawing" width="500"/>
 
-![image](img/kaggle_share_public.jpg)
+<img src="img/kaggle_share_public.jpg" alt="drawing" width="500"/>
