@@ -4,5 +4,5 @@ This repository contains the notebooks for the [Statistical Inference Module](ht
 
 In order to prepare to follow the notebooks, please follow one of the following instructions:
 
-1. [word doc install](prep/ChristmasHomework.docx)
-2. [readme install](prep/README.md)
+> 1. [readme install](prep/README.md)
+> 2. [word doc install](https://github.com/SantosJGND/SI_NOTEBOOKS/blob/main/prep/ChristmasHomework.docx "download")
