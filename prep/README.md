@@ -1,5 +1,7 @@
 # Homework
 
+- see [windows install instructions](windows_install.md)
+
 ## Github
 
 i. Create Github Account at [Github](https://github.com/)
