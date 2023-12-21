@@ -82,5 +82,7 @@ source .venv/Scripts/activate
 - To install libraries, type:
 
 ```bash
-pip install pandas numpy matplotlib seaborn
+python -m pip install pandas numpy matplotlib seaborn
 ```
+
+**Note:** using `python -m pip` instead of `pip` ensures that you are using the pip version that is installed in the environment.
