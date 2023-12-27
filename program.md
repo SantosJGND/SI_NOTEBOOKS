@@ -2,6 +2,11 @@
 
 Module divided into 6 3h sessions over 2 weeks.
 
+### Data
+
+- The Dehli temperature dataset. Introduced in this [Notebook](https://www.kaggle.com/santosjgnd/the-dehli-dataset)
+- The Call Center dataset. Introduced in this [Notebook](https://www.kaggle.com/santosjgnd/call-center-dataset)
+
 ## Week 1: Probability, Distributions and Sampling
 
 ### Session 1: Probability
