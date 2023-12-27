@@ -68,7 +68,7 @@ Module divided into 6 3h sessions over 2 weeks.
 - Class Notebooks
 
   - [Notebook](https://www.kaggle.com/code/santosjgnd/hypothesis-testing-1-1-p-values) - P-Values
-  - [Notebook](hhttps://www.kaggle.com/code/santosjgnd/hypothesis-testing-1-2-intervals) - Hypothesis Testing and Confidence Intervals
+  - [Notebook](https://www.kaggle.com/code/santosjgnd/hypothesis-testing-1-2-intervals) - Hypothesis Testing and Confidence Intervals
 
 - Exercises Notebooks
   - [Notebook](https://www.kaggle.com/santosjgnd/hypothesis-testing-exercises-1-2) - Hypothesis Testing in Python
