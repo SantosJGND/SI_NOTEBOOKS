@@ -2,6 +2,11 @@
 
 Module divided into 6 3h sessions over 2 weeks.
 
+### Data
+
+- The Dehli temperature dataset. Introduced in this [Notebook](https://www.kaggle.com/santosjgnd/the-dehli-dataset)
+- The Call Center dataset. Introduced in this [Notebook](https://www.kaggle.com/santosjgnd/call-center-dataset)
+
 ## Week 1: Probability, Distributions and Sampling
 
 ### Session 1: Probability
@@ -39,3 +44,30 @@ Module divided into 6 3h sessions over 2 weeks.
 
 - Exercises Notebooks
   - [Notebook](https://www.kaggle.com/santosjgnd/samplg-exercises/edit) - Sampling Error
+
+## Week 2: Statistical Inference
+
+### Session 4. Confidence Intervals
+
+- Class
+
+- Class Notebooks
+
+  - [Notebook](https://www.kaggle.com/santosjgnd/confidence-intervals-1-1-z-interval) - Z-Interval
+  - [Notebook](https://www.kaggle.com/santosjgnd/confidence-intervals-1-2-t-interval) - T-Interval
+  - [Notebook](https://www.kaggle.com/code/santosjgnd/confidence-intervals-1-3-groups) - Comparing Groups
+
+- Exercises Notebooks
+  - [Notebook](https://www.kaggle.com/santosjgnd/confidence-interval-exercises) - Confidence Intervals
+
+### Session 5. Hypothesis Testing
+
+- Class
+
+- Class Notebooks
+
+  - [Notebook](https://www.kaggle.com/code/santosjgnd/hypothesis-testing-1-1-p-values) - P-Values
+  - [Notebook](hhttps://www.kaggle.com/code/santosjgnd/hypothesis-testing-1-2-intervals) - Hypothesis Testing and Confidence Intervals
+
+- Exercises Notebooks
+  - [Notebook](https://www.kaggle.com/santosjgnd/hypothesis-testing-exercises) - Hypothesis Testing
