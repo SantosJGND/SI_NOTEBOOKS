@@ -7,6 +7,10 @@ Module divided into 6 3h sessions over 2 weeks.
 - The Dehli temperature dataset. Introduced in this [Notebook](https://www.kaggle.com/santosjgnd/the-dehli-dataset)
 - The Call Center dataset. Introduced in this [Notebook](https://www.kaggle.com/santosjgnd/call-center-dataset)
 
+### Utilities
+
+- see the [Utilities page](utils.md) page for the utilities scripts and functions.
+
 ## Week 1: Probability, Distributions and Sampling
 
 ### Session 1: Probability
@@ -83,3 +87,4 @@ Module divided into 6 3h sessions over 2 weeks.
   - [Notebook](https://www.kaggle.com/code/santosjgnd/practice-1-1-power) - Power
   - [Notebook](https://www.kaggle.com/santosjgnd/practice-1-2-multiple-correction) - Multiple Tests
   - [Notebook](https://www.kaggle.com/santosjgnd/practice-1-3-ks-test) - Kolmogorov-Smirnov Test
+  - [Notebook](https://www.kaggle.com/santosjgnd/practice-1-4-anova) - Resampling Methods
