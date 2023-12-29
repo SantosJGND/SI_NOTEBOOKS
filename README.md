@@ -6,3 +6,7 @@ In order to prepare to follow the notebooks, please follow one of the following 
 
 > 1. [readme install](prep/README.md)
 > 2. [word doc install](https://github.com/SantosJGND/SI_NOTEBOOKS/blob/main/prep/ChristmasHomework.docx "download")
+
+### Statistical Inference Module
+
+Continue to the [Program](program.md) page.
