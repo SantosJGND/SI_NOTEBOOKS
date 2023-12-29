@@ -43,7 +43,7 @@ Module divided into 6 3h sessions over 2 weeks.
   - [Notebook](https://www.kaggle.com/code/santosjgnd/sampling-1-3-clt) - The Central Limit Theorem
 
 - Exercises Notebooks
-  - [Notebook](https://www.kaggle.com/santosjgnd/practice-1-3-ks-test) - The Central Limit Theorem
+  - [Notebook](https://www.kaggle.com/code/santosjgnd/clt-exercises) - The Central Limit Theorem
   - [Notebook](https://www.kaggle.com/santosjgnd/samplg-exercises/edit) - Sampling Error
 
 ## Week 2: Statistical Inference
