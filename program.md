@@ -47,5 +47,48 @@ Module divided into 6 3h sessions over 2 weeks.
   - [Notebook](https://www.kaggle.com/code/santosjgnd/sampling-1-3-clt) - The Central Limit Theorem
 
 - Exercises Notebooks
+<<<<<<< HEAD
   - [Notebook](https://www.kaggle.com/santosjgnd/practice-1-3-ks-test) - The Central Limit Theorem
+=======
+  - [Notebook](https://www.kaggle.com/code/santosjgnd/clt-exercises) - The Central Limit Theorem
+>>>>>>> week2
   - [Notebook](https://www.kaggle.com/santosjgnd/samplg-exercises/edit) - Sampling Error
+
+## Week 2: Statistical Inference
+
+### Session 4. Confidence Intervals
+
+- Class
+
+- Class Notebooks
+
+  - [Notebook](https://www.kaggle.com/santosjgnd/confidence-intervals-1-1-z-interval) - Z-Interval
+  - [Notebook](https://www.kaggle.com/santosjgnd/confidence-intervals-1-2-t-interval) - T-Interval
+  - [Notebook](https://www.kaggle.com/code/santosjgnd/confidence-intervals-1-3-groups) - Comparing Groups
+
+- Exercises Notebooks
+  - [Notebook](https://www.kaggle.com/santosjgnd/confidence-interval-exercises) - Confidence Intervals
+
+### Session 5. Hypothesis Testing
+
+- Class
+
+- Class Notebooks
+
+  - [Notebook](https://www.kaggle.com/code/santosjgnd/hypothesis-testing-1-1-p-values) - P-Values
+  - [Notebook](https://www.kaggle.com/code/santosjgnd/hypothesis-testing-1-2-intervals) - Hypothesis Testing and Confidence Intervals
+
+- Exercises Notebooks
+  - [Notebook](https://www.kaggle.com/santosjgnd/hypothesis-testing-exercises-1-2) - Hypothesis Testing in Python
+  - [Notebook](https://www.kaggle.com/santosjgnd/hypothesis-testing-exercises-2-2) - Hypothesis Testing Exercises
+
+### Session 6. Practice
+
+- Class
+
+- Class Notebooks
+
+  - [Notebook](https://www.kaggle.com/code/santosjgnd/practice-1-1-power) - Power
+  - [Notebook](https://www.kaggle.com/santosjgnd/practice-1-2-multiple-correction) - Multiple Tests
+  - [Notebook](https://www.kaggle.com/santosjgnd/practice-1-3-ks-test) - Kolmogorov-Smirnov Test
+  - [Notebook](https://www.kaggle.com/santosjgnd/practice-1-4-anova) - Resampling Methods
