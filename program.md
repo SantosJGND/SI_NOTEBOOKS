@@ -75,8 +75,8 @@ Module divided into 6 3h sessions over 2 weeks.
   - [Notebook](https://www.kaggle.com/code/santosjgnd/hypothesis-testing-1-2-intervals) - Hypothesis Testing and Confidence Intervals
 
 - Exercises Notebooks
-  - [Notebook](https://www.kaggle.com/santosjgnd/hypothesis-testing-exercises-1-2) - Hypothesis Testing in Python
-  - [Notebook](https://www.kaggle.com/santosjgnd/hypothesis-testing-exercises-2-2) - Hypothesis Testing Exercises
+  - [Notebook](https://www.kaggle.com/santosjgnd/hypothesis-testing-exercises-1-1) - Hypothesis Testing in Python
+  - [Notebook](https://www.kaggle.com/santosjgnd/hypothesis-testing-exercises-1-2) - Hypothesis Testing Exercises
 
 ### Session 6. Practice
 
@@ -87,4 +87,4 @@ Module divided into 6 3h sessions over 2 weeks.
   - [Notebook](https://www.kaggle.com/code/santosjgnd/practice-1-1-power) - Power
   - [Notebook](https://www.kaggle.com/santosjgnd/practice-1-2-multiple-correction) - Multiple Tests
   - [Notebook](https://www.kaggle.com/santosjgnd/practice-1-3-ks-test) - Kolmogorov-Smirnov Test
-  - [Notebook](https://www.kaggle.com/santosjgnd/practice-1-4-anova) - Resampling Methods
+  - [Notebook](https://www.kaggle.com/santosjgnd/practice-1-4-resampling) - Resampling Methods
