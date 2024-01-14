@@ -92,3 +92,7 @@ Module divided into 6 3h sessions over 2 weeks.
 
 - Exercises Notebooks
   - [Notebook](https://www.kaggle.com/santosjgnd/practice-exercises-1-1) - The Tooth Growth Data Set
+
+### Final Exam
+
+- [Notebook](https://www.kaggle.com/santosjgnd/module-exam) - Final Exam
