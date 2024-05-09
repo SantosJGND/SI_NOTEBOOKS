@@ -1,15 +1,8 @@
-# Homework
 
-- see [windows install instructions](windows_install.md)
-
-## Github
-
-i. Create Github Account at [Github](https://github.com/)
-
-## Jupyter Notebooks
+# Jupyter Notebooks
 
 
-### Option 1. Kaggle
+## Option 1. Kaggle
 
 #### i. Sign In
 
@@ -36,7 +29,14 @@ Visit [Kaggle](https://www.kaggle.com/)
 <img src="img/kaggle_share_public.jpg" alt="drawing" width="500"/>
 
 
-### Option 2. VS code (Prefered but see later).
+## Option 2. VS code (Prefered but see later).
+
+- see [windows install instructions](windows_install.md)
+
+## Github
+
+i. Create Github Account at [Github](https://github.com/)
+
 
 #### i. Install Vscode
 
