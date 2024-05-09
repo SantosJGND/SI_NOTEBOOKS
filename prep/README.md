@@ -8,7 +8,35 @@ i. Create Github Account at [Github](https://github.com/)
 
 ## Jupyter Notebooks
 
-### Option 1. VS code (Optional but Prefered)
+
+### Option 1. Kaggle
+
+#### i. Sign In
+
+Visit [Kaggle](https://www.kaggle.com/)
+
+<img src="img/kaggle_signin.jpg" alt="drawing" width="500"/>
+
+#### ii. Find Class URL
+
+- url class 1.1 - [https://www.kaggle.com/code/santosjgnd/si-pythonintro-notebook](https://www.kaggle.com/code/santosjgnd/si-pythonintro-notebook)
+
+#### iii. Copy and Edit
+
+<img src="img/kaggle_copy_edit.jpg" alt="drawing" width="500"/>
+
+#### iv. Play
+
+<img src="img/kaggle_play.jpg" alt="drawing" width="500"/>
+
+#### v. Change name & Share
+
+<img src="img/kaggle_share.jpg" alt="drawing" width="500"/>
+
+<img src="img/kaggle_share_public.jpg" alt="drawing" width="500"/>
+
+
+### Option 2. VS code (Prefered but see later).
 
 #### i. Install Vscode
 
@@ -35,31 +63,3 @@ i. Create Github Account at [Github](https://github.com/)
 #### iii. Ctrl+P (or Cmd+P) – search for "jupyter notebook"
 
 tutorial vídeo: [https://www.youtube.com/watch?v=h1sAzPojKMg](https://www.youtube.com/watch?v=h1sAzPojKMg)
-
-### Option 2. Kaggle
-
-
-
-#### i. Sign In
-
-Visit [Kaggle](https://www.kaggle.com/)
-
-<img src="img/kaggle_signin.jpg" alt="drawing" width="500"/>
-
-#### ii. Find Class URL
-
-- url class 1.1 - [https://www.kaggle.com/code/santosjgnd/si-pythonintro-notebook](https://www.kaggle.com/code/santosjgnd/si-pythonintro-notebook)
-
-#### iii. Copy and Edit
-
-<img src="img/kaggle_copy_edit.jpg" alt="drawing" width="500"/>
-
-#### iv. Play
-
-<img src="img/kaggle_play.jpg" alt="drawing" width="500"/>
-
-#### v. Change name & Share
-
-<img src="img/kaggle_share.jpg" alt="drawing" width="500"/>
-
-<img src="img/kaggle_share_public.jpg" alt="drawing" width="500"/>
