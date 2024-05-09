@@ -38,13 +38,17 @@ tutorial vídeo: [https://www.youtube.com/watch?v=h1sAzPojKMg](https://www.youtu
 
 ### Option 2. Kaggle
 
+
+
 #### i. Sign In
+
+Visit [Kaggle](https://www.kaggle.com/)
 
 <img src="img/kaggle_signin.jpg" alt="drawing" width="500"/>
 
 #### ii. Find Class URL
 
-- url class 1.1 - [https://www.kaggle.com/santosjgnd/distributions-class-distrbutions-1-1](https://www.kaggle.com/santosjgnd/distributions-class-distrbutions-1-1)
+- url class 1.1 - [https://www.kaggle.com/code/santosjgnd/si-pythonintro-notebook](https://www.kaggle.com/code/santosjgnd/si-pythonintro-notebook)
 
 #### iii. Copy and Edit
 
