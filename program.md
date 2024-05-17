@@ -33,7 +33,8 @@ Module divided into 6 3h sessions over 2 weeks.
   - [Notebook](https://www.kaggle.com/code/santosjgnd/distributions-class-distrbutions-3) - Sampling from a Distribution
 
 - Exercises Notebooks
-  - [Notebook](https://www.kaggle.com/santosjgnd/distributions-exercises) - Distribution Exercises
+  - [Notebook](https://www.kaggle.com/code/santosjgnd/distributions-exercises-theory) - Distribution Exercises
+  - [Notebook](https://www.kaggle.com/santosjgnd/distributions-exercises) - Distribution Exercises - python
 
 ### Session 3. Sampling
 
@@ -46,8 +47,10 @@ Module divided into 6 3h sessions over 2 weeks.
   - [Notebook](https://www.kaggle.com/code/santosjgnd/sampling-1-3-clt) - The Central Limit Theorem
 
 - Exercises Notebooks
+  - [Notebook](https://www.kaggle.com/code/santosjgnd/sampling-exercises-theory) - Sampling Exercises
   - [Notebook](https://www.kaggle.com/code/santosjgnd/clt-exercises) - The Central Limit Theorem
   - [Notebook](https://www.kaggle.com/santosjgnd/samplg-exercises) - Sampling Error
+
 
 ## Week 2: Statistical Inference
 
