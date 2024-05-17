@@ -33,7 +33,7 @@ Module divided into 6 3h sessions over 2 weeks.
   - [Notebook](https://www.kaggle.com/code/santosjgnd/distributions-class-distrbutions-3) - Sampling from a Distribution
 
 - Exercises Notebooks
-  - [Notebook](https://www.kaggle.com/santosjgnd/distributions-exercises) - Simulating a Distribution
+  - [Notebook](https://www.kaggle.com/santosjgnd/distributions-exercises) - Distribution Exercises
 
 ### Session 3. Sampling
 
